@@ -70,7 +70,7 @@ switch ($score) {
     case 5:
     ?>
        <div class="text-center container container-sm p-3 my-2 border bg-primary text-white w-50">
-        <p class='text-center container container-sm p-3 my-2 border bg-primary text-white w-25'>Le resultat vous donne le droit de d'avoir un café offert</p>
+        <p class='text-center container container-sm p-3 my-2 border bg-primary text-white w-25'>Le resultat vous donne le droit de d'avoir un café a vie</p>
     <?php
         break;
 }
